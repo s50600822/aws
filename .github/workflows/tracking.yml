@@ -1,0 +1,29 @@
+name: TrackCredentials
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # hourly
+  workflow_dispatch:
+
+jobs:
+  http_request:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: CheckCredly
+        env: 
+          MYSECRET: ${{ secrets.MYSECRET }}      
+        run: |
+          pip install requests
+          python main.py
+          
+      - name: Commit changes
+        run: |
+          git config --global user.email "s50600822@gmail.com"
+          git config --global user.name "s50600822"
+          git add .
+          git commit -m "save"
+          git push
