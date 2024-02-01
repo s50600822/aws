@@ -20,7 +20,7 @@
 18. ![Image 18](https://images.credly.com/images/26fffe39-a730-47e5-8278-457de2d59174/image.png)
 19. ![Image 19](https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)
 20. ![Image 20](https://images.credly.com/images/281d76b2-21b7-4555-84d5-31f11274ab1c/image.png)
-21. ![Image 21](https://images.credly.com/images/2b0b82c7-94e7-4112-9748-cd4b5decf7b4/image.png)
+21. ![Image 21](https://images.credly.com/images/2a7df6a3-05a3-42da-9336-21b28a3f8043/image.png)
 22. ![Image 22](https://images.credly.com/images/2bd50a52-e1d9-4fd1-857d-46e07544f3c0/image.png)
 23. ![Image 23](https://images.credly.com/images/2cd965b0-5f5d-4510-ab05-cfa2f80342a1/image.png)
 24. ![Image 24](https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)
