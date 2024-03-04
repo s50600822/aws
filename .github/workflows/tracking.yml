@@ -19,6 +19,8 @@ jobs:
         run: |
           pip install requests
           python main.py
+          # LAZY
+          python ddupe.py
 
       - name: Commit changes
         run: |
